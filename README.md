@@ -1,9 +1,9 @@
-# Non-monotone Continuous DR-submodular Maximization: Structure and Algorithms
+# Continuous DR-submodular Maximization: Structure and Algorithms
 
 
 This repository collects source code for the paper:
 
-"Non-monotone Continuous DR-submodular Maximization: Structure and Algorithms"
+"Continuous DR-submodular Maximization: Structure and Algorithms"
 
 NIPS 2017. An Bian, Kfir Y. Levy, Andreas Krause and Joachim M. Buhmann
 
